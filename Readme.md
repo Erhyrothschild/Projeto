@@ -11,15 +11,13 @@ Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnolog
   <a href="#memo-licença">Licença</a>
 </p>
 
+![Preview](https://github.com/Erhyrothschild/Projeto/assets/140974200/ab03192f-f3ce-4bcf-910b-881a3448f23b)
+
 <p align="center">
   <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
 </p>
 
 <br>
-
-<p align="center">
-  <img alt="Projeto Devlinks" src=".github/preview.jpg" width="100%">
-</p>
 
 ## 🚀 Tecnologias
 
